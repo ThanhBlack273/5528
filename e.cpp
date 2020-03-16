@@ -4,5 +4,5 @@ int main ()
 {
     cout<<"5";
     return 0;
-    leu leu leu
+    la la la
 }
